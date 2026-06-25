@@ -1,0 +1,189 @@
+{
+  "MARKET_CD_ROLEX": {
+  "ARE": "ar-ae",
+  "AUS": "en-au",
+  "BRA": "pt-br",
+  "CAN": "en-ca",
+  "CHE": "de-ch",
+  "CHN": "zh-hans-cn",
+  "CZE": "en-cz",
+  "DNK": "en-dk",
+  "GBR": "en-gb",
+  "HKG": "en-hk",
+  "IND": "en-in",
+  "ITA": "it-it",
+  "JPN": "ja-jp",
+  "KOR": "ko-kr",
+  "KWT": "ar-kw",
+  "MEX": "es-mx",
+  "MYS": "en-my",
+  "NZL": "en-nz",
+  "QAT": "ar-qa",
+  "SAU": "ar-sa",
+  "SGP": "en-sg",
+  "THA": "en-th",
+  "TUR": "tr",
+  "TWN": "zh-hant-tw",
+  "USA": "en-us",
+  "VNM": "vi",
+  "BHR": "ar-bh",
+  "PHL": "en-ph"
+  },
+
+  "MARKET_CD_LV": {
+  "ARE": "eng-ae",
+  "AUS": "eng-au",
+  "BRA": "por-br",
+  "CAN": "eng-ca",
+  "CHE": "fra-ch",
+  "CHN": "zhs-cn",
+  "CZE": "eng-e1",
+  "DNK": "eng-nl",
+  "GBR": "eng-gb",
+  "HKG": "eng-hk",
+  "IND": "eng-in",
+  "ITA": "ita-it",
+  "JPN": "jpn-jp",
+  "KOR": "kor-kr",
+  "KWT": "eng-ae",
+  "MEX": "esp-mx",
+  "MYS": "eng-my",
+  "NZL": "eng-nz",
+  "QAT": "eng-ae",
+  "SAU": "eng-ae",
+  "SGP": "eng-sg",
+  "THA": "tha-th",
+  "TUR": "tur-tr",
+  "TWN": "zht-tw",
+  "USA": "eng-us",
+  "VNM": "vie-vn",
+  "BHR": "eng-ae",
+  "PHL": "eng-sg"
+  },
+
+  "MARKET_CD_DIOR": {
+  "ARE": "en_ae",
+  "AUS": "en_au",
+  "BRA": "pt_br",
+  "CAN": "en_ca",
+  "CHE": "de_ch",
+  "CHN": "zh_cn",
+  "CZE": "en_cz",
+  "DNK": "en_eu",
+  "GBR": "en_gb",
+  "HKG": "en_hk",
+  "IND": "en_in",
+  "ITA": "it_it",
+  "JPN": "ja_jp",
+  "KOR": "ko_kr",
+  "KWT": "en_kw",
+  "MEX": "es_mx",
+  "MYS": "en_my",
+  "NZL": "en_nz",
+  "QAT": "en_qa",
+  "SAU": "en_sa",
+  "SGP": "en_sg",
+  "THA": "en_th",
+  "TUR": "en_tr",
+  "TWN": "zh_tw",
+  "USA": "en_us",
+  "VNM": "en_vn",
+  "BHR": "en_bh",
+  "PHL": "en_ph"
+  },
+
+  "MARKET_CD_AP": {
+  "ARE": "com/en",
+  "AED": "com/en",
+  "AUS": "com/en",
+  "BRA": "com/en",
+  "CAN": "com/en",
+  "CHE": "com/fr",
+  "CHN": "com/zh-hans",
+  "CZE": "com/en",
+  "DNK": "com/en",
+  "GBR": "com/en",
+  "HKG": "com/en",
+  "IND": "com/en",
+  "ITA": "com/it",
+  "JPN": "com/ja",
+  "KOR": "com/en",
+  "KWT": "com/en",
+  "MEX": "com/es",
+  "MYS": "com/en",
+  "NZL": "com/en",
+  "QAT": "com/en",
+  "SAU": "com/en",
+  "SGP": "com/en",
+  "THA": "com/en",
+  "TUR": "com/en",
+  "TWN": "com/zh-hant",
+  "USA": "com/en",
+  "VNM": "com/en",
+  "BHR": "com/en",
+  "PHL": "com/en"
+},
+
+"MARKET_CD_CARTIER": {
+    "ARE": "en-ae", "AUS": "en-au", "BRA": "pt-br", "CAN": "en-ca", "CHE": "de-ch", "CHN": "", "CZE": "en-cz", "DNK": "en-dk", "GBR": "en-gb", "HKG": "en-hk", "IND": "en-in", "ITA": "it-it", "JPN": "ja", "KOR": "ko-kr", "KWT": "ar-kw", "MEX": "es-mx", "MYS": "en-my", "NZL": "en-nz", "QAT": "ar-qa", "SAU": "ar-sa", "SGP": "en-sg", "THA": "th-th", "TUR": "tr-tr", "TWN": "zh-tw", "USA": "en-us", "VNM": "vi-vn", "BHR": "ar-bh", "PHL": "en-ph"
+  },
+"MARKET_CD_VAN_CLEEF": {
+  "ARE": "ae/en",
+  "AUS": "au/en",
+  "BRA": "br/en",
+  "CAN": "ca/en",
+  "CHE": "ch/en",
+  "CHN": "cn/en",
+  "CZE": "cz/en",
+  "DNK": "dk/en",
+  "GBR": "gb/en",
+  "HKG": "hk/en",
+  "IND": "in/en",
+  "ITA": "it/en",
+  "JPN": "jp/en",
+  "KOR": "kr/en",
+  "KWT": "kw/en",
+  "MEX": "mx/en",
+  "MYS": "my/en",
+  "NZL": "nz/en",
+  "QAT": "qa/en",
+  "SAU": "sa/en",
+  "SGP": "sg/en",
+  "THA": "th/en",
+  "TUR": "tr/en",
+  "TWN": "tw/en",
+  "USA": "us/en",
+  "VNM": "vn/en",
+  "BHR": "bh/en",
+  "PHL": "ph/en"
+},
+  "MARKET_CD_BOTTEGA_VENETA": {
+    "ARE": "ar-ae", "AUS": "en-au", "BRA": "pt-br", "CAN": "en-ca", "CHE": "de-ch", "CHN": "zh-cn", "CZE": "en-cz", "DNK": "en-dk", "GBR": "en-gb", "HKG": "en-hk", "IND": "en-in", "ITA": "it-it", "JPN": "ja-jp", "KOR": "ko-kr", "KWT": "ar-kw", "MEX": "es-mx", "MYS": "en-my", "NZL": "en-nz", "QAT": "ar-qa", "SAU": "ar-sa", "SGP": "en-sg", "THA": "th-th", "TUR": "tr-tr", "TWN": "zh-tw", "USA": "en-us", "VNM": "vi-vn", "BHR": "ar-bh", "PHL": "en-ph"
+  },
+  "MARKET_CD_CELINE": {
+    "ARE": "ar-ae", "AUS": "en-au", "BRA": "pt-br", "CAN": "en-ca", "CHE": "de-ch", "CHN": "zh-cn", "CZE": "en-cz", "DNK": "en-dk", "GBR": "en-gb", "HKG": "en-hk", "IND": "en-in", "ITA": "it-it", "JPN": "ja-jp", "KOR": "ko-kr", "KWT": "ar-kw", "MEX": "es-mx", "MYS": "en-my", "NZL": "en-nz", "QAT": "ar-qa", "SAU": "ar-sa", "SGP": "en-sg", "THA": "th-th", "TUR": "tr-tr", "TWN": "zh-tw", "USA": "en-us", "VNM": "vi-vn", "BHR": "ar-bh", "PHL": "en-ph"
+  },
+  "MARKET_CD_CHANEL": {
+    "ARE": "ae", "AUS": "au", "BRA": "br", "CAN": "ca", "CHE": "ch", "CHN": "cn", "CZE": "cz", "DNK": "dk", "GBR": "gb", "HKG": "hk", "IND": "in", "ITA": "it", "JPN": "jp", "KOR": "kr", "KWT": "kw", "MEX": "mx", "MYS": "my", "NZL": "nz", "QAT": "qa", "SAU": "sa", "SGP": "sg", "THA": "th", "TUR": "tr", "TWN": "tw", "USA": "us", "VNM": "vn", "BHR": "bh", "PHL": "ph"
+  },
+
+  "MARKET_CD_FENDI": {
+    "ARE": "ae-en", "AUS": "au-en", "BRA": "br-en", "CAN": "ca-en", "CHE": "ch-de", "CHN": "cn-zh", "CZE": "cz-en", "DNK": "dk-en", "GBR": "gb-en", "HKG": "hk-en", "IND": "in-en", "ITA": "it-en", "JPN": "jp-ja", "KOR": "kr-ko", "KWT": "kw-en", "MEX": "mx-en", "MYS": "my-en", "NZL": "nz-en", "QAT": "qa-en", "SAU": "sa-en", "SGP": "sg-en", "THA": "th-en", "TUR": "tr-en", "TWN": "tw-en", "USA": "us-en", "VNM": "vn-en", "BHR": "bh-en", "PHL": "ph-en"
+  },
+  "MARKET_CD_GUCCI": {
+    "ARE": "ae/ar", "AUS": "au/en", "BRA": "br/pt", "CAN": "ca/en", "CHE": "ch/de", "CHN": "cn/zh", "CZE": "cz/en", "DNK": "dk/en", "GBR": "gb/en", "HKG": "hk/en", "IND": "in/en", "ITA": "it/it", "JPN": "jp/ja", "KOR": "kr/ko", "KWT": "kw/ar", "MEX": "mx/es", "MYS": "my/en", "NZL": "nz/en", "QAT": "qa/ar", "SAU": "sa/ar", "SGP": "sg/en", "THA": "th/th", "TUR": "tr/tr", "TWN": "tw/zh", "USA": "us/en", "VNM": "vn/vi", "BHR": "bh/ar", "PHL": "ph/en"
+  },
+
+  "MARKET_CD_PRADA": {
+    "ARE": "ae/ar", "AUS": "au/en", "BRA": "br/pt", "CAN": "ca/en", "CHE": "ch/de", "CHN": "cn/zh", "CZE": "cz/en", "DNK": "dk/en", "GBR": "gb/en", "HKG": "hk/en", "IND": "in/en", "ITA": "it/it", "JPN": "jp/ja", "KOR": "kr/ko", "KWT": "kw/ar", "MEX": "mx/es", "MYS": "my/en", "NZL": "nz/en", "QAT": "qa/ar", "SAU": "sa/ar", "SGP": "sg/en", "THA": "th/th", "TUR": "tr/tr", "TWN": "tw/zh", "USA": "us/en", "VNM": "vn/vi", "BHR": "bh/ar", "PHL": "ph/en"
+  },
+  "MARKET_CD_VALENTINO": {
+    "ARE": "ar-ae", "AUS": "en-au", "BRA": "pt-br", "CAN": "en-ca", "CHE": "de-ch", "CHN": "zh-cn", "CZE": "en-cz", "DNK": "en-dk", "GBR": "en-gb", "HKG": "en-hk", "IND": "en-in", "ITA": "it-it", "JPN": "ja-jp", "KOR": "ko-kr", "KWT": "ar-kw", "MEX": "es-mx", "MYS": "en-my", "NZL": "en-nz", "QAT": "ar-qa", "SAU": "ar-sa", "SGP": "en-sg", "THA": "th-th", "TUR": "tr-tr", "TWN": "zh-tw", "USA": "en-us", "VNM": "vi-vn", "BHR": "ar-bh", "PHL": "en-ph"
+  },
+  "MARKET_CD_OMEGA": {
+    "ARE": "ar-ae", "AUS": "en-au", "BRA": "pt-br", "CAN": "en-ca", "CHE": "de-ch", "CHN": "zh-cn", "CZE": "en-cz", "DNK": "en-dk", "GBR": "en-gb", "HKG": "en-hk", "IND": "en-in", "ITA": "it-it", "JPN": "ja-jp", "KOR": "ko-kr", "KWT": "ar-kw", "MEX": "es-mx", "MYS": "en-my", "NZL": "en-nz", "QAT": "ar-qa", "SAU": "ar-sa", "SGP": "en-sg", "THA": "th-th", "TUR": "tr-tr", "TWN": "zh-tw", "USA": "en-us", "VNM": "vi-vn", "BHR": "ar-bh", "PHL": "en-ph"
+  },
+  "MARKET_CD_VACHERON_CONSTANTIN": {
+    "ARE": "ar-ae", "AUS": "en-au", "BRA": "pt-br", "CAN": "en-ca", "CHE": "de-ch", "CHN": "zh-cn", "CZE": "en-cz", "DNK": "en-dk", "GBR": "en-gb", "HKG": "en-hk", "IND": "en-in", "ITA": "it-it", "JPN": "ja-jp", "KOR": "ko-kr", "KWT": "ar-kw", "MEX": "es-mx", "MYS": "en-my", "NZL": "en-nz", "QAT": "ar-qa", "SAU": "ar-sa", "SGP": "en-sg", "THA": "th-th", "TUR": "tr-tr", "TWN": "zh-tw", "USA": "en-us", "VNM": "vi-vn", "BHR": "ar-bh", "PHL": "en-ph"
+  }
+}
